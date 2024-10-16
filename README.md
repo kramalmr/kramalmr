@@ -18,3 +18,5 @@
 
 
 
+###
+<img src="https://raw.githubusercontent.com/kramalmr/kramalmr/output/snake.svg" alt="Snake animation" />
